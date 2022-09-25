@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ShadowFN\bin\Debug\ShadowFN.exe
+C:\Users\User\source\repos\ShadowFN\bin\Debug\ShadowFN.pdb
+C:\Users\User\source\repos\ShadowFN\obj\Debug\ShadowFN.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShadowFN\obj\Debug\ShadowFN.Form1.resources
+C:\Users\User\source\repos\ShadowFN\obj\Debug\ShadowFN.Properties.Resources.resources
+C:\Users\User\source\repos\ShadowFN\obj\Debug\ShadowFN.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ShadowFN\obj\Debug\ShadowFN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShadowFN\obj\Debug\ShadowFN.exe
+C:\Users\User\source\repos\ShadowFN\obj\Debug\ShadowFN.pdb
